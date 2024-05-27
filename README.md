@@ -6,8 +6,8 @@ My primary goals are to conduct Exploratory Data Analysis (EDA) and develop mach
 
 **ML models and data interpretation:**
 
-1. [Data Cleaning, Feature Engineering, Explanatory Data Analysis](./Titanic/1_Data.ipynb)
-2. [ML models screen](./Titanic/2_Model_screen.ipynb)
-3. [Random Forest: parameters hypertuning](./Titanic/3_RandomForest.ipynb)
-4. [Receiver Operating Characteristic (ROC), Confusion Matrix and Threshold adjustement](./Titanic/4_ROC.ipynb)
-5. [Decision Tree: Cost Complexity Pruning (CCP)](./Titanic/5_DecissionTree.ipynb)
+1. [Data Cleaning, Feature Engineering, Explanatory Data Analysis](./1_Data.ipynb)
+2. [ML models screen](./2_Model_screen.ipynb)
+3. [Random Forest: parameters hypertuning](./3_RandomForest.ipynb)
+4. [Decision Tree: Cost Complexity Pruning (CCP)](./4_DecissionTree.ipynb)
+5. [Receiver Operating Characteristic (ROC), Confusion Matrix and Threshold adjustement](./5_ROC.ipynb)
